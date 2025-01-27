@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trenuri>
+    <tren id="1">
+        <plecare>Iasi</plecare>
+        <destinatie>Brasov</destinatie>
+        <ora_plecare>08:50</ora_plecare>
+        <intarziere_plecare>1</intarziere_plecare>
+        <ora_sosire>14:00</ora_sosire>
+        <intarziere_sosire>16</intarziere_sosire>
+    </tren>
+    <tren id="2">
+        <plecare>Cluj</plecare>
+        <destinatie>Oradea</destinatie>
+        <ora_plecare>09:00</ora_plecare>
+        <intarziere_plecare>3</intarziere_plecare>
+        <ora_sosire>11:30</ora_sosire>
+        <intarziere_sosire>-20</intarziere_sosire>
+    </tren>
+    <tren id="3">
+        <plecare>Iasi</plecare>
+        <destinatie>Bucuresti</destinatie>
+        <ora_plecare>00:00</ora_plecare>
+        <intarziere_plecare>5</intarziere_plecare>
+        <ora_sosire>00:40</ora_sosire>
+        <intarziere_sosire>15</intarziere_sosire>
+    </tren>
+    <tren id="4">
+        <plecare>Cluj</plecare>
+        <destinatie>Iasi</destinatie>
+        <ora_plecare>01:30</ora_plecare>
+        <intarziere_plecare>0</intarziere_plecare>
+        <ora_sosire>09:30</ora_sosire>
+        <intarziere_sosire>0</intarziere_sosire>
+    </tren>
+    <tren id="5">
+        <plecare>Iasi</plecare>
+        <destinatie>Cluj</destinatie>
+        <ora_plecare>09:45</ora_plecare>
+        <intarziere_plecare>5</intarziere_plecare>
+        <ora_sosire>15:00</ora_sosire>
+        <intarziere_sosire>14</intarziere_sosire>
+    </tren>
+    <tren id="6">
+        <plecare>Bucuresti</plecare>
+        <destinatie>Cluj</destinatie>
+        <ora_plecare>09:15</ora_plecare>
+        <intarziere_plecare>0</intarziere_plecare>
+        <ora_sosire>16:30</ora_sosire>
+        <intarziere_sosire>0</intarziere_sosire>
+    </tren>
+    <tren id="7">
+        <plecare>Oradea</plecare>
+        <destinatie>Cluj</destinatie>
+        <ora_plecare>14:00</ora_plecare>
+        <intarziere_plecare>0</intarziere_plecare>
+        <ora_sosire>15:30</ora_sosire>
+        <intarziere_sosire>8</intarziere_sosire>
+    </tren>
+    <tren id="8">
+        <plecare>Vaslui</plecare>
+        <destinatie>Iasi</destinatie>
+        <ora_plecare>08:35</ora_plecare>
+        <intarziere_plecare>5</intarziere_plecare>
+        <ora_sosire>09:40</ora_sosire>
+        <intarziere_sosire>8</intarziere_sosire>
+    </tren>
+    <tren id="9">
+        <plecare>Vaslui</plecare>
+        <destinatie>Cluj</destinatie>
+        <ora_plecare>11:00</ora_plecare>
+        <intarziere_plecare>0</intarziere_plecare>
+        <ora_sosire>19:30</ora_sosire>
+        <intarziere_sosire>0</intarziere_sosire>
+    </tren>
+</trenuri>
